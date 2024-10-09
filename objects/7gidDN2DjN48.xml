@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7gidDN2DjN48" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Introducción al Dominio del Problema]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[La industria de la repostería congelada se enfrenta a retos constantes en la gestión eficiente de la producción y el manejo de la información. La variabilidad en la demanda, la optimización de los procesos productivos y la necesidad de cumplir con estrictas normativas de seguridad alimentaria hacen que la planificación y el control de la producción sean tareas críticas.
+
+Uno de los desafíos principales es la gestión de fichas técnicas, que incluyen especificaciones detalladas sobre ingredientes, métodos de elaboración, alérgenos, componentes químicos, entre otros. El formato en el que se presentan estas fichas varía según proveedores y clientes, lo que complica su procesamiento automatizado. Un parseador que estandarice y automatice la interpretación de estos documentos puede optimizar el flujo de trabajo, reducir errores y mejorar la trazabilidad de la información.
+
+Otro reto significativo es la planificación de la producción, donde la demanda fluctuante y la necesidad de optimizar el uso de recursos (como ingredientes y maquinaria) requieren una gestión inteligente del calendario de producción. Un sistema de calendario inteligente que tenga en cuenta todos los factores que intervienen podría contribuir a reducir tiempos muertos, optimizar la capacidad de producción y mejorar la gestión de inventario, lo que resultaría en una mayor eficiencia operativa y una reducción de coste, además de una posible prevención del desperdicio de productos caducados]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
