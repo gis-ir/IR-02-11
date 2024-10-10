@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3Mv8Le24CF3V" classes="organization" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Universidad de Sevilla - Escuela Técnica Superior de Ingeniería Informática]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[IR-02-11]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <stringProperty name="address" category="detail"><![CDATA[Av. de la Reina Mercedes, s/n, 41012 Sevilla]]></stringProperty>
+    <stringProperty name="address" category="detail"><![CDATA[E.T.S. Ingeniería Informática Avda. Reina Mercedes s/n 41012 Sevilla]]></stringProperty>
     <stringProperty name="phone-number" category="detail"><![CDATA[954556817]]></stringProperty>
     <stringProperty name="email" category="detail"><![CDATA[no aplica]]></stringProperty>
     <urlProperty name="web" category="detail"><![CDATA[https://www.informatica.us.es]]></urlProperty>
