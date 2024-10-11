@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <stringProperty name="as-role" category="detail"><![CDATA[propietario]]></stringProperty>
     <markdownProperty name="i-want-to" category="detail"><![CDATA[automatizar el proceso de etiquetado de los productos]]></markdownProperty>
-    <markdownProperty name="so-that" category="detail"><![CDATA[evitar posibles errores manuales y ahorrar tiempo en esta tarea tan dificultosa.]]></markdownProperty>
+    <markdownProperty name="so-that" category="detail"><![CDATA[evitar posibles errores manuales y ahorrar tiempo en esta tarea tan compleja]]></markdownProperty>
     <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">high</enumProperty>
     <enumProperty name="priority" category="detail" choices="tbd high medium low">high</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>

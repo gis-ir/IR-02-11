@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[El alcance del sistema a desarrollar tiene como objetivo:
 
-#### Transformar de formato de fichas técnicas
+#### Cambiar el formato de fichas técnicas
 
 Esta herramienta permitirá estandarizar y automatizar el proceso de interpretación de fichas técnicas, que contienen información clave sobre los productos de repostería (ingredientes, alérgenos, almacenamiento, etc.). Actualmente, las fichas de los ingredientes de cada proveedor poseen formatos inconsistentes, lo que dificulta su manejo. El transformador será capaz de: 
 
@@ -18,7 +18,7 @@ Esta herramienta permitirá estandarizar y automatizar el proceso de interpretac
 
 ####  Optimizar la producción
 
- Esta solución tiene como objetivo mejorar la planificación y programación de la producción mensual (y en consecuencia, semanal y diaria) en la planta. Considerará factores como la demanda de productos, stock de ingredientes, capacidad de producción, tiempos de preparación y otras particularidades del proceso como el limpiado de máquinas... El calendario inteligente ofrecerá las siguientes funcionalidades:
+ Esta solución tiene como objetivo mejorar la planificación y programación de la producción mensual (y en consecuencia, semanal y diaria) en la planta. Considerará factores como la demanda de productos, stock de ingredientes, capacidad de producción, tiempos de preparación y otras particularidades del proceso como el limpiado de máquinas. El calendario inteligente ofrecerá las siguientes funcionalidades:
 
 + Planificación automática de la producción en función de la demanda de los últimos seis meses y la disponibilidad de recursos.
 
