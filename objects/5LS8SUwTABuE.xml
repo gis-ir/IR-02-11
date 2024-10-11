@@ -6,11 +6,11 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El Grupo Sietem S.L. es una pyme (pequeñas y medianas empresas) con sede en Camas, Sevilla. Es una empresa especializada en la fabricación de repostería industrial, principalmente en tartas congeladas. 
+    <markdownProperty name="text" category="detail"><![CDATA[El Grupo Sietem S.L. es una pyme con sede en Camas, Sevilla. Es una empresa especializada en la fabricación de repostería industrial, principalmente en tartas congeladas. 
 
 Desde 2004, comienzan a producir postres para hostelería. Empiezan a expandirse distribuyendo sus productos a grandes cadenas de supermercados españolas como ALDI, MELIA, el Dia o Carrefour. 
 
-De esta manera, se posicionan como líder en el sector de tartas congeladas, elaborando productos innovadores y compitiendo exitosamente contra grandes corporaciones.
+De esta manera, se posicionan como líder en el sector de tartas congeladas, elaborando productos innovadores y compitiendo exitosamente contra grandes corporaciones, llegando a presentar algunos de sus productos en EEUU, como la tarta de fondant en el Fancy Food.
 
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
