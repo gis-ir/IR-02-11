@@ -7,14 +7,23 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Las personas que se encuentran involucradas en los procesos de negocio de la empresa son: 
-Para el proceso de etiquetado de alimentos: 
--Proveedores: Son empresas externas que suministran materias primas, ingredientes y productos semielaborados, éstas proporcionan etiquetas y fichas técnicas con la información necesaria sobre sus productos. Envían la información al equipo de etiquetado de la empresa, ya sea de manera manual o a través de un sistema.
--Empleado: Es el encargado de gestionar las etiquetas generadas por Fichatec. Su responsabilidad es ingresar datos en el sistema Fichatec, revisar y reorganizar las etiquetas manualmente para ajustarlas al formato de la empresa. Se comunica con Fichatec para obtener la información y ajustar las etiquetas.
--Aplicación Fichatec: Es una herramienta de gestión de fichas técnicas y etiquetas. Genera automáticamente las etiquetas de acuerdo a la información ingresada, aunque en un formato poco eficiente.
+
+Para el proceso de etiquetado de alimentos:
+ 
+- Proveedores: Son empresas externas que suministran materias primas, ingredientes y productos semielaborados, éstas proporcionan etiquetas y fichas técnicas con la información necesaria sobre sus productos. Envían la información al equipo de etiquetado de la empresa, ya sea de manera manual o a través de un sistema.
+
+- Empleado: Es el encargado de gestionar las etiquetas generadas por Fichatec. Su responsabilidad es ingresar datos en el sistema Fichatec, revisar y reorganizar las etiquetas manualmente para ajustarlas al formato de la empresa. Se comunica con Fichatec para obtener la información y ajustar las etiquetas.
+
+- Aplicación Fichatec: Es una herramienta de gestión de fichas técnicas y etiquetas. Genera automáticamente las etiquetas de acuerdo a la información ingresada, aunque en un formato poco eficiente.
+
+- Reguladores: Entidades o autoridades gubernamentales o privadas encargadas de asegurar los cumplimentos relacionados con la seguridad alimentaria, la calidad de los productos, el etiquetado correcto, y otros requisitos legales que la empresa debe cumplir.
+
 
 Para el proceso de planificación de la producción: 
--Sistema Sietem:  Software que ayuda en la planificación y calendarización de la producción diaria. Su responsabilidad es generar el calendario de producción, revisa la demanda de productos, verifica el stock de ingredientes y semielaborados, y realiza una planificación preliminar.
--Supervisor de producción: Es la persona encargada de validar y ajustar el calendario de producción. Verifica que el calendario de producción sea eficiente, haciendo ajustes manuales si es necesario.
+
+- Sistema Sietem:  Software que ayuda en la planificación y calendarización de la producción diaria. Su responsabilidad es generar el calendario de producción, revisa la demanda de productos, verifica el stock de ingredientes y semielaborados, y realiza una planificación preliminar.
+
+- Supervisor de producción: Es la persona encargada de validar y ajustar el calendario de producción. Verifica que el calendario de producción sea eficiente, haciendo ajustes manuales si es necesario.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
