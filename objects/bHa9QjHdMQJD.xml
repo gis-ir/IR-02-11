@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="bHa9QjHdMQJD" classes="business-requirement business-process" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[BPRO-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Etiquetado automatizado]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[Con la aplicación a desarrollar lo único que habría que hacer sería indicarle la ficha técnica cuyo formato hay que embellecer y se obendría una legible rápidamente]]></markdownProperty>
+    <enumProperty name="importance" category="detail" choices="tbd critical high medium low optional">critical</enumProperty>
+    <fileProperty name="diagram" category="detail" tooltip="file-info"><![CDATA[]]></fileProperty>
+    <integerProperty name="width" category="detail" tooltip="width-info">20</integerProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

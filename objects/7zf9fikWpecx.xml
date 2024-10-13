@@ -1,8 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="6Y4uP8mrsdxQ" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+<object id="7zf9fikWpecx" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Description of current business actors]]></stringProperty>
-    <markdownProperty name="comments" category="general"><![CDATA[Las personas que se encuentran involucradas en los procesos de negocio de la empresa son: 
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Implicados actuales]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[Las personas que se encuentran involucradas en los procesos de negocio de la empresa son: 
 Para el proceso de etiquetado de alimentos: 
 -Proveedores: Son empresas externas que suministran materias primas, ingredientes y productos semielaborados, éstas proporcionan etiquetas y fichas técnicas con la información necesaria sobre sus productos. Envían la información al equipo de etiquetado de la empresa, ya sea de manera manual o a través de un sistema.
 -Empleado: Es el encargado de gestionar las etiquetas generadas por Fichatec. Su responsabilidad es ingresar datos en el sistema Fichatec, revisar y reorganizar las etiquetas manualmente para ajustarlas al formato de la empresa. Se comunica con Fichatec para obtener la información y ajustar las etiquetas.
@@ -12,8 +16,8 @@ Para el proceso de planificación de la producción:
 -Sistema Sietem:  Software que ayuda en la planificación y calendarización de la producción diaria. Su responsabilidad es generar el calendario de producción, revisa la demanda de productos, verifica el stock de ingredientes y semielaborados, y realiza una planificación preliminar.
 -Supervisor de producción: Es la persona encargada de validar y ajustar el calendario de producción. Verifica que el calendario de producción sea eficiente, haciendo ajustes manuales si es necesario.
 ]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children>
-    <child id="7zf9fikWpecx"/>
-  </children>
+  <children/>
 </object>
