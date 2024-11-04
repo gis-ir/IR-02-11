@@ -20,7 +20,7 @@ stock = {
     "materias_primas": {
         "queso crema": 50,    # Solo tienes 50g en stock
         "azúcar": 200,        # Tienes 200g en stock
-        "huevos": 2,          # Solo tienes 2 huevos en stock
+        "huevos": 20,          # Solo tienes 2 huevos en stock
         "harina": 500
         # Tienes suficiente harina para 1 o 2 tartas
     }
