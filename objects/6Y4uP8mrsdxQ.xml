@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6Y4uP8mrsdxQ" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Description of current business actors]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de actores de negocio actuales]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[Las personas que se encuentran involucradas en los procesos de negocio de la empresa son: 
 Para el proceso de etiquetado de alimentos: 
 -Proveedores: Son empresas externas que suministran materias primas, ingredientes y productos semielaborados, éstas proporcionan etiquetas y fichas técnicas con la información necesaria sobre sus productos. Envían la información al equipo de etiquetado de la empresa, ya sea de manera manual o a través de un sistema.
