@@ -1,12 +1,13 @@
 expanded_objects:
   3GEWGc2G7MNm: true
   3GsbN2UjGc2q: false
-  3J5ijppbddtV: true
+  3J5ijppbddtV: false
   3Ktrn7NrgV5q: true
   3LyaJUsAmkkP: true
   3Mv8Le24CF3V: true
   3NczbRPBeUWb: true
   3PCvLobxHaQu: true
+  3R5ZsGW9qNGn: true
   3V9VCWNACnar: true
   3XrqZsdqDMZZ: true
   3avMeuEfU9zr: true
@@ -36,7 +37,7 @@ expanded_objects:
   4kjBQjq58zZ2: true
   4oy5xxWj2cjn: true
   4x2hLBpUgUy5: true
-  4x3rPxn2uobD: true
+  4x3rPxn2uobD: false
   52vLq5BfQUWZ: true
   55ZkcGsG3LA8: true
   58jqvZeZaStQ: true
@@ -50,6 +51,7 @@ expanded_objects:
   5QzWhVUYLFDz: true
   5Ram3spvCn3T: true
   5UFkK7NJ2tmR: true
+  5UWXMsLx67fK: true
   5UujXycTG6mp: true
   5Y42HoJr8xkw: true
   5YxuSdSKDGod: true
@@ -107,7 +109,7 @@ expanded_objects:
   PytM4Dt3hwFi: true
   QhrNQyso8Lyg: true
   VZGY4DyUuTHR: true
-  Wsvs75b6nmVw: true
+  Wsvs75b6nmVw: false
   X5rcZbzu3DCJ: true
   ZWgshKZSVez8: true
   a5Ms3w2xSfc8: true
@@ -121,10 +123,12 @@ expanded_objects:
   orJTku2FCsNF: true
   qRAAmgFbYMux: true
   zcVz5tYAcuvm: true
-opened_views:
-- default
 selected_document: ers
 selected_objects:
   5Y42HoJr8xkw: 5Y42HoJr8xkw
+<<<<<<< HEAD
   ers: 6NGNFuzFuXMM
+=======
+  ers: 5YxuSdSKDGod
+>>>>>>> b1aea683b75615e41413957aae995f70b4c6ce6e
 selected_view: default
