@@ -90,6 +90,7 @@ expanded_objects:
   7HbFfySLhQCT: true
   7JTDZJSz9NjB: true
   7QYhH9ieEmVo: true
+  7QjybtPzp24D: false
   7VEen7FJ9UPJ: true
   7VSmnLCpt76Z: true
   7WpmsQQ2uNwA: false
@@ -136,5 +137,6 @@ opened_views:
 - default
 selected_document: ers
 selected_objects:
-  ers: 7dTNT8XXpgYT
+  das: null
+  ers: 7QjybtPzp24D
 selected_view: default
