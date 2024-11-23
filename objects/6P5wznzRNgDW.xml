@@ -4,5 +4,21 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Description of system classes]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="7qAaMH4cZoUN"/>
+    <child id="7JDTjKKPCY74"/>
+    <child id="4ToPSTH78sfJ"/>
+    <child id="6zmx6k7H5Dmi"/>
+    <child id="6FcTeoj76KQh"/>
+    <child id="4wLN5cCgpCGM"/>
+    <child id="66pNzQeojYvq"/>
+    <child id="6knxHpXgwj77"/>
+    <child id="GzWPVapNjDiN"/>
+    <child id="7wPnkZSKLCpw"/>
+    <child id="5pU9iGDGA2fH"/>
+    <child id="47322PCVzwiT"/>
+    <child id="898f9BJErmna"/>
+    <child id="9gSuT9zDcGQ6"/>
+    <child id="6sJMfcFkgmyt"/>
+  </children>
 </object>
