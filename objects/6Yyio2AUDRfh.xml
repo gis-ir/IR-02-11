@@ -9,7 +9,7 @@
     <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Diagrama de Estado - Proveedor.png]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[Logo de la Universidad de Sevilla]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Diagrama de estado PedidoProveedor]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
