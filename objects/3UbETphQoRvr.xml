@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3UbETphQoRvr" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Analistas]]></stringProperty>
+    <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="43P24tG8WtL9"/>
+    <child id="4uXJ23KtZBss"/>
+    <child id="4iQX3eu366t5"/>
+    <child id="3ytys6vmbYEA"/>
+    <child id="6Z77nBYWMicb"/>
+  </children>
+</object>
