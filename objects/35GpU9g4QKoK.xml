@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="35GpU9g4QKoK" classes="organization" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Sietem]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-23</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <stringProperty name="address" category="detail"><![CDATA[Polígono Industrial Parque Plata, C. Mesta, 1, 41900 Camas, Sevilla]]></stringProperty>
+    <stringProperty name="phone-number" category="detail"><![CDATA[955056307]]></stringProperty>
+    <stringProperty name="email" category="detail"><![CDATA[no aplica]]></stringProperty>
+    <urlProperty name="web" category="detail"><![CDATA[https://sietem.com]]></urlProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
