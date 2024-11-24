@@ -8,9 +8,27 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[La industria de la repostería congelada se enfrenta a retos constantes en la gestión eficiente de la producción y el manejo de la información. La variabilidad en la demanda, la optimización de los procesos productivos y la necesidad de cumplir con estrictas normativas de seguridad alimentaria hacen que la planificación y el control de la producción sean tareas críticas.
 
-Uno de los desafíos principales es la gestión de fichas técnicas, que incluyen especificaciones detalladas sobre ingredientes, métodos de elaboración, alérgenos, componentes químicos, entre otros. El formato en el que se presentan estas fichas varía según proveedores y clientes, lo que complica su procesamiento automatizado. Un parseador que estandarice y automatice la interpretación de estos documentos puede optimizar el flujo de trabajo, reducir errores y mejorar la trazabilidad de la información.
+Uno de los desafíos principales es la gestión de fichas técnicas, que incluyen especificaciones detalladas sobre los componentes, alérgenos, valores nutricionales... El formato en el que se presentan estas fichas varía según proveedores y clientes, lo que complica su procesamiento automatizado. 
 
-Otro reto significativo es la planificación de la producción, donde la demanda fluctuante y la necesidad de optimizar el uso de recursos (como ingredientes y maquinaria) requieren una gestión inteligente del calendario de producción. Un sistema de calendario inteligente que tenga en cuenta todos los factores que intervienen podría contribuir a reducir tiempos muertos, optimizar la capacidad de producción y mejorar la gestión de inventario, lo que resultaría en una mayor eficiencia operativa y una reducción de coste, además de una posible prevención del desperdicio de productos caducados]]></markdownProperty>
+#### Cambiar el formato de fichas técnicas
+
+Un parseador que estandarice y automatice la interpretación de estos documentos puede optimizar el flujo de trabajo, reducir errores y mejorar la trazabilidad de la información.  Actualmente, las fichas de los ingredientes de cada proveedor poseen formatos inconsistentes, lo que dificulta su manejo. Esta herramienta será capaz de: 
+
++ Leer e interpretar múltiples formatos de fichas técnicas. 
+
++ Dar como salida una ficha técnica con un formato estandarizado dentro de la empresa
+
+Otro reto significativo es la planificación de la producción, donde la demanda fluctuante y la necesidad de optimizar el uso de recursos (como ingredientes y maquinaria), requieren una gestión inteligente del calendario de producción.
+
+####  Optimizar la producción
+
+ Esta solución tiene como objetivo mejorar la planificación y programación de la producción mensual en la planta. Considerará factores como la demanda de productos, stock de ingredientes, capacidad de producción, tiempos de preparación y vida útil de los productos y otras particularidades del proceso como el limpiado de máquinas. El calendario inteligente ofrecerá las siguientes funcionalidades:
+
++ Planificación automática de la producción en función de la demanda de los últimos seis meses y la disponibilidad de recursos.
+
++ Propuestas de ajuste en los horarios y orden de producción de las diferentes referencias para optimizar la eficiencia y reducir tiempos muertos.
+
++ Integración con el inventario de materias primas para prever y evitar faltantes que puedan detener la producción.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

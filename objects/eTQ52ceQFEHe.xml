@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="eTQ52ceQFEHe" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Description of business processes to be implemented]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Descripción de los procesos de negocio a implantar]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
-    <child id="6eDPGpkou7Mz"/>
-    <child id="3jYHJ3F2P8Gw"/>
-    <child id="4YE6KpTC24K4"/>
-    <child id="78tszBtb7RAd"/>
+    <child id="bHa9QjHdMQJD"/>
+    <child id="4Y3ku7iC7ZhN"/>
+    <child id="5GbgCn6FUb3H"/>
+    <child id="5tRp53rzCYmu"/>
   </children>
 </object>

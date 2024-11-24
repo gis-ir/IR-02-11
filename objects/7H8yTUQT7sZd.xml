@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7H8yTUQT7sZd" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[precio]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Precio total de ese producto para ese pedido, es decir, precio individual de ese producto multiplicado por las unidades del pedido.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
