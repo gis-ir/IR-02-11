@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4o6GtzLdSy5x" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoDeEntrega]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El tiempo máximo que exige que los productos hayan estado almacenados antes de que los reciba]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

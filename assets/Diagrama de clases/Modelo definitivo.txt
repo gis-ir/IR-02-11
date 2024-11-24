@@ -1,0 +1,96 @@
+@startuml
+skinparam packageStyle rectangle
+skinparam linetype ortho
+skinparam nodesep 60
+skinparam ranksep 50
+skinparam padding 2
+skinparam roundcorner 5
+top to bottom direction
+class Método {
+  numeroReferencia: Integer
+  cantidadProducto: Integer
+}
+class MétodoProducto {
+  cantidad: Double
+}
+class Producto {
+  nombre: String
+  precio: Double
+  vidaUtil: Time
+}
+class MateriaPrima {
+  cantidadDisponible: Double
+  tiempoProcesamiento: Time
+}
+class Semielaborado {
+  stock: Integer
+  tiempoElaboracion: Time
+  tiempoReposo: Time
+}
+class ProductoFinal {
+  unidades: Integer
+  tiempoElaboracion: Time
+  tiempoReposo: Time
+  vidaUtilConsumida: Time
+}
+class Maquinaria {
+  nombre: String
+  tiempoLimpieza: Time
+  tiempoPorProducto: Time
+}
+class MaquinariaProducto {
+  tiempoUso: Double
+}
+class PedidoProducto {
+  unidades: Integer
+  precio: Double
+}
+class Persona {
+  nombre: String
+  email: String
+  teléfono: String
+  direccion: String
+}
+class Cliente {
+  tiempoDeEntrega: Time
+}
+class Proveedor {
+  tiempoDeEspera: Time
+}
+class Pedido {
+  fechaInicio: Date
+  fechaEntrega: Date
+  precioTotal: Double
+  direccionEntrega: String
+}
+class PedidoCliente {
+  fechaPreparacion: Date
+  fechaFinalizacion: Date
+}
+class PedidoProveedor {
+  tiempoPedido: Time
+}
+' Relaciones
+Persona <|-- Cliente
+Persona <|-- Proveedor
+Pedido <|-- PedidoCliente
+Pedido <|-- PedidoProveedor
+Producto <|-- MateriaPrima
+Producto <|-- Semielaborado
+Producto <|-- ProductoFinal
+
+Cliente "1" -- "*" PedidoCliente : realiza
+Proveedor "1" -- "*" PedidoProveedor : envía
+
+Pedido -- "*" PedidoProducto
+Producto "1" -- "*" PedidoProducto : contiene
+
+Método -- "*" MétodoProducto
+Semielaborado "1" -- "*" MétodoProducto : contiene
+ProductoFinal "1" -- "*" MétodoProducto : contiene
+
+Semielaborado -- "*" MaquinariaProducto
+ProductoFinal -- "*" MaquinariaProducto
+Maquinaria "1" -- "*" MaquinariaProducto : contiene
+
+@enduml
