@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7SaRmwKm2gWb" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoDeEspera]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El tiempo que tarda el proveedor en llegar a Sietem desde que el pedido es realizado. Se calcula como la media del tiempo de todos los pedidos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
