@@ -1,18 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="7ShwwQUbTYM2" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
+<object id="4etta8LUGt3E" classes="software-requirement nonfunctional-requirement" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[CU-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Añadir Pedido]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-11-20</dateProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[NFRQ-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copias de seguridad]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[1. El usuario pide al sistema que añada pedidos.
-2. El sistema permite elegir un archivo pdf o excel que tenga los datos del pedido.
-3. El usuario selecciona el archivo.
-4. El sistema añade el pedido al historial de pedidos para la creación del calendario.]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[]]></markdownProperty>
-    <markdownProperty name="postcondition" category="pre-post"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá implementar copias de seguridad automáticas y procedimientos de recuperación para proteger los datos en
+caso de fallos.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
@@ -20,5 +16,5 @@
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true"/>
+  <children/>
 </object>
