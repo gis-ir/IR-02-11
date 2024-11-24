@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8FKZHVTuLPbB" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Copy of attribute]]></stringProperty>
-    <stringProperty name="type" category="general"><![CDATA[string]]></stringProperty>
-    <markdownProperty name="description" category="detail"><![CDATA[description]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoUso]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[double]]></stringProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

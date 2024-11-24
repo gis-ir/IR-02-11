@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="UhDPoexLGxTW" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+<object id="4fyPHuYGtnWN" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoPedido]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoProcesamiento]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[time]]></stringProperty>
     <markdownProperty name="description" category="detail"><![CDATA[]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>

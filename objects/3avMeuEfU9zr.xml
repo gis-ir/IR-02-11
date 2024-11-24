@@ -1,8 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3avMeuEfU9zr" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[System behavioral requirements]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Requisitos de conducta del sistema]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
-  <children/>
+  <children>
+    <child id="3TihBcaUvU9p"/>
+    <child id="77PdxDKRZgT3"/>
+    <child id="69Erg7Mxghbg"/>
+    <child id="44PXBwksZRup"/>
+    <child id="ATgUrFzwtNMb"/>
+  </children>
 </object>
