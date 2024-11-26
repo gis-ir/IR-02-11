@@ -8,13 +8,15 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[1. El directivo (ACT-002) inicia sesión 
-2. El sistema, si esta en la base de datos, le deja 
-iniciar sesión.
-3. El directivo (ACT-002) se dirigira a la ventana Empleados. 
-4. Una vez en esta pestaña, el directivo (ACT-002) solicitara al sistema acciones de elimiar o añadir a nuevos empleados.
-5. El sistema, si el directivo (ACT-002) quiere eliminar a un empleado, borrara dicho empleado
-6. En el caso de que el directivo (ACT-002) quiera añadir un nuevo empleado, el sistema le movera a una ventana nueva para introducir los datos del nuevo empleado.
-7. El directivo (ACT-002) una vez introduccidos los nuevos datos, solicitara al sistema que se guarden.]]></markdownProperty>
+2. El sistema valida los datos del empleado (ACT-001) y le visualiza sus datos de perfil.
+3. El directivo (ACT-002) solicitará al sistema visualizar los perfiles de los Empleados.
+4. El sistema mostrará a los empleados registrados al Directivo (ACT-002).
+5. El directivo (ACT-002) solicitará al sistema eliminiar a un empleado.
+6. El sistema borrará dicho empleado
+7. El directivo (ACT-002) solicitará al sistema añadir un nuevo empleado 
+8. El sistema le pedirá introducir los datos del nuevo empleado.
+8. El directivo (ACT-002) una vez introduccidos los nuevos datos, solicitará al sistema que se guarden.
+9. El sistema guardará al nuevo empleado.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El directivo (ACT-002) esta registrado en el sistema.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El empleado ha sido eliminado o añadido con exito.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
