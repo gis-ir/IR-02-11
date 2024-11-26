@@ -8,11 +8,11 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[1. El empleado (ACT-001) inicia sesión 
-2. El sistema, si esta en la base de datos, le deja 
-iniciar sesión.
-3. El empleado (ACT-001) se dirigira a la ventana "pedidos". 
-4. El empleado (ACT-001) seleccionara los pedidos que el calendario tiene que tener en cuenta.
-5. El sistema guardara estos pedidos y los enviara al calendario.]]></markdownProperty>
+2. El sistema valida los datos del empleado (ACT-001) y le visualiza sus datos de perfil.
+3. El empleado (ACT-001) solicitará al sistema visualizar los pedidos actuales.
+4. El sistema mostrará la lista de pedidos. 
+5. El empleado (ACT-001) seleccionará los pedidos que el calendario tiene que tener en cuenta.
+6. El sistema guardará estos pedidos y los enviará al calendario.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El empleado de producción (ACT-001) esta registrado en el sistema]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El calendario se ha actualizado correctamente]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
