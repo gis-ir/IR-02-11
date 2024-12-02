@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5UujXycTG6mp" classes="section" acceptedChildren=":Proteus-any" acceptedParents=":Proteus-document section">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[System user interface schematics]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Esquemas de la interfaz de usuario del sistema]]></stringProperty>
     <markdownProperty name="comments" category="general"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
@@ -15,5 +15,8 @@
     <child id="4UsnB92FQdYx"/>
     <child id="7QBUPPXUXqFJ"/>
     <child id="8M7od4xE6GAg"/>
+    <child id="5Becnv43mc35"/>
+    <child id="6uhEKjW8qY36"/>
+    <child id="6ZCbEq7HamQi"/>
   </children>
 </object>
