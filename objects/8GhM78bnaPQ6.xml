@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8GhM78bnaPQ6" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar guardado datos empleado]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) una vez validados los datos introducidos, solicitará al sistema que se guarden.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
