@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3ZpJyVMyCzzG" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="42i9ukzJsXot" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Introducción datos empleado]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Introducción datos empleado]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El sistema validará los datos.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
