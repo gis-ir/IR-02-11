@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7XAZmGxzYoWG" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar moficación de categoría de contrato]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) modificará una categoría de contrato, actualizando así las condiciones de dicho contrato a todos los empleados de esa categoría a no ser que, individualmente, se exprese lo contrario.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

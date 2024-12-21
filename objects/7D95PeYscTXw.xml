@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7D95PeYscTXw" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar categorías de contratos existentes]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) solicitará al sistema visualizar las categorías de contrato existentes.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
