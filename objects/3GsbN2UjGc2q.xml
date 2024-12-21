@@ -7,7 +7,7 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[diagram (2).svg]]></fileProperty>
-    <urlProperty name="url" category="detail"><![CDATA[https://www.us.es/sites/default/files/2019-05/marca-US-principal.jpg]]></urlProperty>
+    <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">100</integerProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Obtención de fichas técnicas actuales
 
