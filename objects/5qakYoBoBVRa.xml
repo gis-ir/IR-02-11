@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5qakYoBoBVRa" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Servicio Pedido]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[- añadirPedido(): muestra una ventana para añadir los productos y datos del nuevo pedido
+- actualizarPedidos(): el sistema busca en la base de datos los pedidos hecho desde la pagina de compra por los clientes y los añade a la pestaña de pedidos
+- marcarPedido(): los pedidos de la pestaña se pueden marcar o desmarcar para que el calendario los tenga en cuenta para la planificación
+- seleccionarPedido(): en la pestaña de añadir pedidos, seleccionando el desplegable se te mostraran todos los posibles productos, luego de seleccionar el deseado se guarda en el nuevo pedido
+- añadirProducto(): añade una nuevo desplegable para añadir un producto, junto a la cantidad de ese producto
+- confirmarPedido(): luego de que todos los datos deseados del nuevo pedido hayan sido añadidos correctamente, el pedido se guardara en la base de datos y en la pestaña de pedidos, por defecto, marcado para que el calendario lo use en la planificación]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

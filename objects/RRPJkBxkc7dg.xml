@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="4rHnMcWe7awF" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+<object id="RRPJkBxkc7dg" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[direcciónEntrega]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[Dirección dónde se recepciona el pedido.]]></markdownProperty>
