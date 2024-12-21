@@ -2,7 +2,7 @@
 <object id="427CMKNsaSCc" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoPedido]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Tiempo que tarda en llegar ese pedido en concreto a Sietem.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Tiempo de antelación con el que habría que realizar el pedido al proveedor.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
