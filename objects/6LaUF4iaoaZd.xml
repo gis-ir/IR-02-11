@@ -6,9 +6,15 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- Subsistema de usuarios: El subsistema se encargará de la gestión de usuarios
-- Subsistema de pedidos: El subsistema se encargará de los pedidos realizado a los proveedores y por clientes de vía email.
-- Subsistema de productos: El subsistmea se encargará de la gestión de los productos almacenados]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[- Subsistema de usuarios: Este subsistema se encargará de la gestión de usuarios, permitiendo registrar, modificar, y eliminar usuarios del sistema. También incluirá funciones para asignar roles y permisos, asegurando que cada usuario solo pueda acceder a las funciones específicas según su rol.
+
+- Subsistema de pedidos: El subsistema gestionará los pedidos realizados tanto por los proveedores como por los clientes. Permitirá registrar los pedidos, por correo o manualmente, generar resúmenes de los pedidos e integrarlos con el stock disponible. También permitirá hacer el seguimiento del estado de los pedidos y la generación de albaranes.
+
+- Subsistema de productos y stock: Este subsistema manejará los productos almacenados, tanto materias primas como semielaborados y productos finales. Incluirá funciones para gestionar el inventario, realizar ajustes en el stock, calcular necesidades de reposición basadas en los pedidos, y mantener actualizado el estado de los ingredientes.
+
+- Susbsitema de etiquetas: El subsistema automatizará la creación de etiquetas de acuerdo con las especificaciones de la empresa. Recibirá datos desde Fichatec, aplicará las transformaciones necesarias para generar un formato legible y validado, y producirá etiquetas finales.
+
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
