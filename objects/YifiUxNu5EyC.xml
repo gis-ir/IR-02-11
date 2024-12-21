@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="654F2MjCavow" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+<object id="YifiUxNu5EyC" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[cantidadProducto]]></stringProperty>
     <stringProperty name="type" category="general"><![CDATA[integer]]></stringProperty>

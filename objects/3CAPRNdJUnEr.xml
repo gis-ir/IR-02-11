@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="6MmH6tB9rx7H" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
+<object id="3CAPRNdJUnEr" classes="attribute" acceptedChildren=":Proteus-none" acceptedParents="entity-class association">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[stock]]></stringProperty>
-    <stringProperty name="type" category="general"><![CDATA[double]]></stringProperty>
+    <stringProperty name="type" category="general"><![CDATA[Double]]></stringProperty>
     <markdownProperty name="description" category="detail"><![CDATA[]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
