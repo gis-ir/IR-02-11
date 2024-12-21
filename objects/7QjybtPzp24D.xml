@@ -21,7 +21,6 @@
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
-      <trace target="3R7zQ2ZdyBxp" traceType=":Proteus-dependency"/>
       <trace target="7oCneE6NCYv9" traceType=":Proteus-dependency"/>
       <trace target="4DbAmFxM5Sco" traceType=":Proteus-dependency"/>
       <trace target="44PXBwksZRup" traceType=":Proteus-dependency"/>
