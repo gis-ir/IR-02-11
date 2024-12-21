@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="37ffmLuqnH8Q" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar datos productos finales]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará los productos finales que tiene almacenados al empleado de producción (ACT-001).]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

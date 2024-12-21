@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="wuDCLQnK53c4" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar pedidos seleccionados]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará al empleado de producción (ACT-001) los pedidos seleccionados a tener en cuenta, para que confime si son correctos o se le ha olvidado alguno.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
