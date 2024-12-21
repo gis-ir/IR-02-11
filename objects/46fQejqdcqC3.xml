@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<object id="46fQejqdcqC3" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
-  <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Solicitar listado de empleados]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) solicita el listado de empleados al sistema para ver si se ha añadido/eliminado correctamente al empleado.]]></markdownProperty>
-    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
-  </properties>
-  <children/>
-</object>

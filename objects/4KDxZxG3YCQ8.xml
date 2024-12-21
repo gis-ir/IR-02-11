@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4KDxZxG3YCQ8" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Generar calendario de producción]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema generará el calendario de producción en función de los cálculos realizados en base a los pedidos seleccionados.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

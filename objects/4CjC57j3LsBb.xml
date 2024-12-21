@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="8DyKHDWkWjTw" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="4CjC57j3LsBb" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar stock disponible]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Solicitar stock disponible]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) solicita al sistema ver el stock disponible.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

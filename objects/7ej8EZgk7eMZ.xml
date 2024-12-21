@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7ej8EZgk7eMZ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar creación de categoría de contrato]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) añadirá una categoría de contrato, para que, al asignarla a un empleado, la plantilla de esa categoría de contrtato pueda ser reutilizada en todos los empleados de la misma categoría de contrato, evitando así la modificación individual de cada contrato en casos como una subida de salario general.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

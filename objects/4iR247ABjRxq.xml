@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4iR247ABjRxq" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Revisión carrito]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El comprador (ACT-003) revisará que los datos del carrito son correctos y confirmará el pedido o volverá al paso anterior para modificar el carrito a su gusto especificará el tiempo máximo de almacenamiento que permite para los productos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3ezXEnsZKKg3" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="5XBfuoCb9NU7" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Actualizar stock]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Actualizar stock]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El sistema actualizará el stock en la base de datos en función de los datos introducidos.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="64eYiPAvdGNC" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Guardar empleado]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema guardará al nuevo empleado.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Guardar empleado]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema guardará en la base de datos al nuevo empleado.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

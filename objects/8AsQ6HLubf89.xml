@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8AsQ6HLubf89" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Solicitar añadir empleado]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar adición del empleado]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) solicitará al sistema añadir un nuevo empleado.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

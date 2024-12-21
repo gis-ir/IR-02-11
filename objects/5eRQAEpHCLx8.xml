@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="kA3LB3eetVCR" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="5eRQAEpHCLx8" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Solicitar datos empleados]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar datos empleados]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El directivo (ACT-002) solicitará al sistema visualizar los datos de los empleados registrados.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
