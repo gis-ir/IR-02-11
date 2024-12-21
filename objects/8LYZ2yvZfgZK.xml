@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="8LYZ2yvZfgZK" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Seleccionar pedidos a tener en cuenta]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado (ACT-001) seleccionará los pedidos que el calendario tiene que tener en cuenta, excluyendo campañas y pedidos puntuales.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
