@@ -10,8 +10,8 @@
 
 https://www.figma.com/proto/KhR8dIbbYVuGZNB25pgqU7/Mockup-IR?node-id=0-1&t=Z5aNazTOHAHgYeAz-1
 
-Hay que tener en cuenta que como prototipo de interfaz, solo sirve para viajar a traves de los diferentes pestañas, ni es necesario un inicio de sesion, ni se añadiran datos a los Mock Ups. 
-La vision que tendra es la de un Directivo, debido a que es la mas completa. Si se quisiese ver la vista de un empleado, mire en la seccion siguiente (5.2).]]></markdownProperty>
+Hay que tener en cuenta que como prototipo de interfaz, solo sirve para viajar a traves de los diferentes pestañas, ni es necesario un inicio de sesion, ni se añadirán datos a los Mockups. 
+La visión que tendrá es la de un Directivo, debido a que es la mas completa, al incluir las funcionalidades de los empleados también. Si solo se quisiera ver la vista de un empleado, mire en la sección siguiente (5.2).]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
