@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.3">
+  <diagram name="Página-1" id="RgSfkVh2xg5wvQbXFirX">
+    <mxGraphModel dx="961" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-1" value="Añadir Pedidos" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="456" y="98" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-2" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1" source="VHAIPuWwmSsetIgqDv4m-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="138" as="sourcePoint" />
+            <mxPoint x="580" y="138" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="441" y="40" width="150" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-7" value="&lt;font&gt;Comprador&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="680" y="98" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-10" value="&lt;font&gt;Empleado Producción&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-11" value="Generar Calendario" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="97" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-12" value="Actualizar generar calendario" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-13" value="Marcar tarea como completada" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHAIPuWwmSsetIgqDv4m-10" target="VHAIPuWwmSsetIgqDv4m-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="450" as="sourcePoint" />
+            <mxPoint x="300" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VHAIPuWwmSsetIgqDv4m-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="273" as="sourcePoint" />
+            <mxPoint x="470" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VHAIPuWwmSsetIgqDv4m-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VHAIPuWwmSsetIgqDv4m-10" target="VHAIPuWwmSsetIgqDv4m-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="291.5" as="sourcePoint" />
+            <mxPoint x="441" y="328.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
