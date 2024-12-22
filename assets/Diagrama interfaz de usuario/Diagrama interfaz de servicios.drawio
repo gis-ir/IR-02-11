@@ -73,13 +73,13 @@
         <mxCell id="AsEGcWaMer-OqswIVFp1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsEGcWaMer-OqswIVFp1-1" target="AsEGcWaMer-OqswIVFp1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsEGcWaMer-OqswIVFp1-1" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;Servicio Pedido&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AsEGcWaMer-OqswIVFp1-1" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;Servicio Maquinaria&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="445" y="820" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AsEGcWaMer-OqswIVFp1-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AsEGcWaMer-OqswIVFp1-2" target="AsEGcWaMer-OqswIVFp1-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AsEGcWaMer-OqswIVFp1-2" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;Servicio Pedido&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AsEGcWaMer-OqswIVFp1-2" value="&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;div&gt;Servicio Producto Final&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="810" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AsEGcWaMer-OqswIVFp1-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Servicios Maquinarias&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;crearMaquinaria()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;modificarMaquinaria()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;eliminarMaquinaria()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
