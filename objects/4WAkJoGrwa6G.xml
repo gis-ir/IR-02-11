@@ -5,9 +5,7 @@
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Marcar producto final realizado en el calendario]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[2.0]]></stringProperty>
-    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
-      <trace target="7ErYGnAoDr6m" traceType=":Proteus-author"/>
-    </traceProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema debería comportarse como se describe en el siguiente caso de uso cuando el empleado de producción quiera indicar que la producción estimada de un producto final ha sido cumplida.]]></markdownProperty>
     <markdownProperty name="precondition" category="pre-post"><![CDATA[El empleado de producción (ACT-001) está registrado en el sistema y los cálculos de producción del calendario han sido previamente generados.]]></markdownProperty>
