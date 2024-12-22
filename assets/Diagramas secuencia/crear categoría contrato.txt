@@ -1,0 +1,12 @@
+title Crear Categoría de Contrato
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar categorías de contrato
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de categorías de contrato
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de categorías de contrato
+Interfaz de Usuario -> Directivo: Mostrar lista de categorías de contrato
+
+Directivo -> Interfaz de Usuario: Solicitar añadir una categoría de contrato
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de categoría de contrato
+Interfaz de Servicio -> Interfaz de Usuario: Modificar la categoría de contrato
+Interfaz de Usuario -> Directivo: Mostrar listado de categorías de contrato con la categoría recién creada
+

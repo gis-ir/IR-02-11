@@ -1,0 +1,11 @@
+title Añadir Semielaborado
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar semielaborados
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de semielaborados
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de semielaborados
+Interfaz de Usuario -> Empleado: Mostrar lista de semielaborados
+
+Empleado -> Interfaz de Usuario: Solicitar añadir un semielaborado
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar adición de semielaborado
+Interfaz de Servicio -> Interfaz de Usuario: Añadir semielaborado a la base de datos
+Interfaz de Usuario -> Empleado: Mostrar listado de semielaborados con el recién añadido

@@ -1,0 +1,12 @@
+title Modificar Categoría de Contrato
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar categorías de contrato
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de categorías de contrato
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de categorías de contrato
+Interfaz de Usuario -> Directivo: Mostrar lista de categorías de contrato
+
+Directivo -> Interfaz de Usuario: Solicitar modificar una categoría de contrato
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de categoría de contrato
+Interfaz de Servicio -> Interfaz de Usuario: Modificar categoría de contrato
+Interfaz de Usuario -> Directivo: Mostrar la categoría de contrato con la información actualizada
+

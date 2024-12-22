@@ -1,0 +1,16 @@
+title Crear Ficha Técnica
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar productos finales
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos finales
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos finales
+Interfaz de Usuario -> Empleado: Mostrar lista de productos finales
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar productos finales sin ficha técnica
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos finales sin ficha técnica
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos finales sin ficha técnica
+Interfaz de Usuario -> Empleado: Mostrar lista de productos finales sin ficha técnica
+
+Empleado -> Interfaz de Usuario: Solicitar añadir ficha técnica al producto final
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar adición de ficha técnica al producto final
+Interfaz de Servicio -> Interfaz de Usuario: Añadir ficha técnica al producto final
+Interfaz de Usuario -> Empleado: Mostrar ficha técnica con el producto final

@@ -1,0 +1,11 @@
+title Modificar Semielaborado
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar semielaborados
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de semielaborados
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de semielaborados
+Interfaz de Usuario -> Empleado: Mostrar lista de semielaborados
+
+Empleado -> Interfaz de Usuario: Solicitar modificar un semielaborado
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de semielaborado
+Interfaz de Servicio -> Interfaz de Usuario: Modificar semielaborado
+Interfaz de Usuario -> Empleado: Mostrar datos del semielaborado modificado

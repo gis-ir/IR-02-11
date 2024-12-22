@@ -1,0 +1,11 @@
+title Añadir Empleado
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar empleados registrados
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de empleados registrados
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de empleados registrados
+Interfaz de Usuario -> Directivo: Mostrar lista de empleados registrados
+
+Directivo -> Interfaz de Usuario: Solicitar añadir un empleado
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar adición de empleado
+Interfaz de Servicio -> Interfaz de Usuario: Añadir empleado
+Interfaz de Usuario -> Directivo: Mostrar al nuevo empleado en el listado

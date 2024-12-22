@@ -1,0 +1,11 @@
+title Modificar Contrato
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar contratos
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de contratos
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de contratos
+Interfaz de Usuario -> Directivo: Mostrar lista de contratos
+
+Directivo -> Interfaz de Usuario: Solicitar modificar un contrato
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de contrato
+Interfaz de Servicio -> Interfaz de Usuario: Modificar contrato
+Interfaz de Usuario -> Directivo: Mostrar contrato modificado

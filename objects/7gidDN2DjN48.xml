@@ -28,7 +28,16 @@ Otro reto significativo es la planificación de la producción, donde la demanda
 
 + Propuestas de ajuste en los horarios y orden de producción de las diferentes referencias para optimizar la eficiencia y reducir tiempos muertos.
 
-+ Integración con el inventario de materias primas para prever y evitar faltantes que puedan detener la producción.]]></markdownProperty>
++ Integración con el inventario de materias primas para prever y evitar faltantes que puedan detener la producción.
+
+####  Gestión de personal. Opcional.
+Esta parte del sistema a desarrollar es de soporte para el directivo o la persona encargada de llevar los contratos del personal, ya que facilitaría mucho su gestión. Es un requisito opcional que solo ha de implementarse si la construcción del proyecto lleva menos tiempo, y por tanto, gasto, del esperado por Sietem. Sus funcionalidades serían las siguientes:
+
++ Añadir y eliminar empleados, significando esto su contratación y su despido, respectivamente.
+
++ Añadir y modificar categorías de contrato, que definirían los distintos roles de la empresa Sietem, proporcionando así una plantilla de contrato reutilizable para todos los empleados con ese cargo, y la aplicación incoporaría automáticamente los datos como el nombre cuando se asociase esa categoría de contrato a un empleado. Puede ser útil para eventos globales, como una subida de salario general.
+
++ Modificar un contrato, para cuando se quieran modificar las condiciones laborales de un solo empleado, sin afectar por tanto a la categoría de ese contrato, si no solo al contrato específico de ese empleado.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="4un6oFnWzZvJ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar pedidos recibidos]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará al empleado (ACT-001) los pedidos almacenados en la base de datos de los últimos meses, según se haya configurado.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar listado pedidos recibidos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará al empleado (ACT-001) el listado de los pedidos almacenados en la base de datos de los últimos meses, según se haya configurado.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
