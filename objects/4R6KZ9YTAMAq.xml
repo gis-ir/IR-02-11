@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4R6KZ9YTAMAq" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar modificación de la materia prima]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) solicitará al sistema modificar las propiedades de una materia prima ya existente.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

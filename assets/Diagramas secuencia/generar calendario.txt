@@ -1,0 +1,16 @@
+title Generar Calendario
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar pedidos recibidos
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de pedidos recibidos
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de pedidos recibidos
+Interfaz de Usuario -> Empleado: Mostrar lista de pedidos recibidos
+
+Empleado -> Interfaz de Usuario: Seleccionar pedidos a tener en cuenta
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista pedidos a tener en cuenta
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de pedidos a tener en cuenta
+Interfaz de Usuario -> Empleado: Mostrar lista de pedidos a tener en cuenta
+
+Empleado -> Interfaz de Usuario: Seleccionar objetivo temporal del calendario
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar generación del calendario
+Interfaz de Servicio -> Interfaz de Usuario: Generar calendario
+Interfaz de Usuario -> Empleado: Mostrar calendario

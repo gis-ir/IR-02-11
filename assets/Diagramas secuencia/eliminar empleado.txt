@@ -1,0 +1,11 @@
+title Eliminar Empleado
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar empleados registrados
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de empleados registrados
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de empleados registrados
+Interfaz de Usuario -> Directivo: Mostrar lista de empleados registrados
+
+Directivo -> Interfaz de Usuario: Solicitar eliminar un empleado
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar eliminación de empleado
+Interfaz de Servicio -> Interfaz de Usuario: Eliminar empleado
+Interfaz de Usuario -> Directivo: Mostrar listado de empleados sin el empleado recién eliminado

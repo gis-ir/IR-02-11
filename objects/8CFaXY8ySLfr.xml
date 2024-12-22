@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="8CFaXY8ySLfr" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar stock disponible]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema le muestra al empleado de producción (ACT-001) el stock.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar listado stock disponible]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema le muestra al empleado de producción (ACT-001) el stock disponible para cada producto.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

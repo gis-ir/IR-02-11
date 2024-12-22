@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6TTnMvra36cV" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar datos semielaborados]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará los semielaborados que tiene almacenados al empleado de producción (ACT-001).]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar listado datos semielaborados]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará el listado de los semielaborados que tiene almacenados al empleado de producción (ACT-001).]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

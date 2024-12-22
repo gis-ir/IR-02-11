@@ -1,0 +1,11 @@
+title Modificar Materia Prima
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar materias primas
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de materias primas
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de materias primas
+Interfaz de Usuario -> Empleado: Mostrar lista de materias primas
+
+Empleado -> Interfaz de Usuario: Solicitar modificar una materia prima
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de materia prima
+Interfaz de Servicio -> Interfaz de Usuario: Modificar la materia prima
+Interfaz de Usuario -> Empleado: Mostrar datos de la materia  modificada

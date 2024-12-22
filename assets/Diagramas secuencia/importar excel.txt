@@ -1,0 +1,11 @@
+title Importar datos de excel
+
+Empleado -> Interfaz de Usuario: Solicitar listado de datos ya importados
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de datos ya importados
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de datos ya importados
+Interfaz de Usuario -> Empleado: Mostrar lista de datos ya importados
+
+Empleado -> Interfaz de Usuario: Seleccionar un excel a importar
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar transformación del excel
+Interfaz de Servicio -> Interfaz de Usuario: Devolver un elemento del sistema con los datos del excel
+Interfaz de Usuario -> Empleado: Mostrar el nuevo elemento

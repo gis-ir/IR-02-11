@@ -1,0 +1,11 @@
+title Añadir Materia Prima
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar materias primas
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de materias primas
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de materias primas
+Interfaz de Usuario -> Empleado: Mostrar lista de materias primas
+
+Empleado -> Interfaz de Usuario: Solicitar añadir una materia prima
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar adición de materia prima
+Interfaz de Servicio -> Interfaz de Usuario: Añadir materia prima a la base de datos
+Interfaz de Usuario -> Empleado: Mostrar listado de materias primas, con la recién añadida

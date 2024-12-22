@@ -1,0 +1,16 @@
+title Actualizar Generación Calendario
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar pedidos recibidos
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de pedidos recibidos
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de pedidos recibidos
+Interfaz de Usuario -> Empleado: Mostrar lista de pedidos recibidos
+
+Empleado -> Interfaz de Usuario: Seleccionar nuevos pedidos a tener en cuenta
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de nuevos pedidos a tener en cuenta
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de nuevos pedidos a tener en cuenta
+Interfaz de Usuario -> Empleado: Mostrar lista de nuevos pedidos a tener en cuenta
+
+Empleado -> Interfaz de Usuario: Seleccionar nuevo objetivo temporal del calendario
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar generación del calendario actualizado
+Interfaz de Servicio -> Interfaz de Usuario: Generar calendario actualizado
+Interfaz de Usuario -> Empleado: Mostrar calendario actualizado

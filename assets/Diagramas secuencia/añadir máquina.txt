@@ -1,0 +1,11 @@
+title Añadir Máquina
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar máquinas
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de máquinas
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de máquinass
+Interfaz de Usuario -> Empleado: Mostrar lista de máquinas
+
+Empleado -> Interfaz de Usuario: Solicitar añadir una máquina
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar adición de máquina
+Interfaz de Servicio -> Interfaz de Usuario: Añadir máquina a la base de datos
+Interfaz de Usuario -> Empleado: Mostrar listado de máquinas, con la recién añadida
