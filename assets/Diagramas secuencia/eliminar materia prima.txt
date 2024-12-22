@@ -1,0 +1,11 @@
+title Eliminar Materia Prima
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar materias primas
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de materias primas
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de materias primas
+Interfaz de Usuario -> Empleado: Mostrar lista de materias primas
+
+Empleado -> Interfaz de Usuario: Solicitar eliminar una materia prima
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar eliminación de materia prima
+Interfaz de Servicio -> Interfaz de Usuario: Eliminar materia prima de la base de datos
+Interfaz de Usuario -> Empleado: Mostrar listado de materias primas, sin la eliminada
