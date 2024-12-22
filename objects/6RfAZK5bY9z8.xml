@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="6RfAZK5bY9z8" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar productos diarios o semanales]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El empleado (ACT-001) solicita ver los productos a fabricar el día o la semana actual (en función de la configuración).]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar listado productos diarios o semanales]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado (ACT-001) solicita ver el listado de los productos a fabricar el día o la semana actual (en función de la configuración).]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

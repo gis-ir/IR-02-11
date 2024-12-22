@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="52GxecXQ5DdF" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar productos finales]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) solicitará al sistema visualizar los datos de los producto finales.]]></markdownProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar listado productos finales]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) solicitará al sistema visualizar el listado de los productos finales.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

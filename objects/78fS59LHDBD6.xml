@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="78fS59LHDBD6" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar adición de la máquina]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) solicitará al sistema añadir una nueva máquina.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

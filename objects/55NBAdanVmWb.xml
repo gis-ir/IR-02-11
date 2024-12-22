@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="55NBAdanVmWb" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of Añadir ficha técnica al producto]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) seleccionará un producto final sin ficha técnica asociada, para, en función a su método (y, por tanto, a las fichas técnicas de las materias primas y los semielaborados que lo componen) obtener la ficha técnica]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

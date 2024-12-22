@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="5BY2vWmUzntt" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Seleccionar producto realizado.]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Seleccionar producto realizado]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[El empleado (ACT-001) selecciona el producto cuyo cupo calculado por el calendario haya sido ya producido.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
