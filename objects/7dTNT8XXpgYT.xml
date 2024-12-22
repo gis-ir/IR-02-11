@@ -18,8 +18,6 @@
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
       <trace target="7UY2KMwYEeq6" traceType=":Proteus-dependency"/>
-      <trace target="3TihBcaUvU9p" traceType=":Proteus-dependency"/>
-      <trace target="44PXBwksZRup" traceType=":Proteus-dependency"/>
       <trace target="52Cz4QYmQhaC" traceType=":Proteus-dependency"/>
       <trace target="4oDNZ9qFUAmN" traceType=":Proteus-dependency"/>
       <trace target="73FNXyUZHJKY" traceType=":Proteus-dependency"/>
