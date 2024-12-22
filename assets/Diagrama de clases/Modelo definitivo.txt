@@ -10,7 +10,10 @@ class Método {
   numeroReferencia: Integer
   cantidadProducto: Integer
 }
-class MétodoProducto {
+class MétodoSemielaborado {
+  cantidad: Double
+}
+class MétodoProductoFinal {
   cantidad: Double
 }
 class Producto {
@@ -33,12 +36,15 @@ class ProductoFinal {
   tiempoReposo: Time
   vidaUtilConsumida: Time
 }
-class Maquinaria {
+class Máquina {
   nombre: String
   tiempoLimpieza: Time
   tiempoPorProducto: Time
 }
-class MaquinariaProducto {
+class MáquinaSemielaborado {
+  tiempoUso: Double
+}
+class MáquinaProductoFinal {
   tiempoUso: Double
 }
 class PedidoProducto {
@@ -85,12 +91,14 @@ Proveedor "1" -- "*" PedidoProveedor : envía
 Pedido -- "*" PedidoProducto
 Producto "1" -- "*" PedidoProducto : contiene
 
-Método -- "*" MétodoProducto
-Semielaborado "1" -- "*" MétodoProducto : contiene
-ProductoFinal "1" -- "*" MétodoProducto : contiene
+Método -- "*" MétodoSemielaborado
+Método -- "*" MétodoProductoFinal
+Semielaborado "1" -- "*" MétodoSemielaborado : contiene
+ProductoFinal "1" -- "*" MétodoProductoFinal : contiene
 
-Semielaborado -- "*" MaquinariaProducto
-ProductoFinal -- "*" MaquinariaProducto
-Maquinaria "1" -- "*" MaquinariaProducto : contiene
+Semielaborado -- "*" MáquinaSemielaborado
+ProductoFinal -- "*" MáquinaProductoFinal
+Máquina "1" -- "*" MáquinaSemielaborado : contiene
+Máquina "1" -- "*" MáquinaProductoFinal : contiene
 
 @enduml
