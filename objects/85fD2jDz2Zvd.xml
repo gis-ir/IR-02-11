@@ -8,7 +8,7 @@
       <trace target="7ErYGnAoDr6m" traceType=":Proteus-author"/>
     </traceProperty>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[Diagrama secuencia crear categoría contrato.png]]></fileProperty>
+    <fileProperty name="file" category="detail" tooltip="file-info"><![CDATA[WhatsApp Image 2024-12-22 at 19.07.55.jpeg]]></fileProperty>
     <urlProperty name="url" category="detail"><![CDATA[]]></urlProperty>
     <integerProperty name="width" category="detail" tooltip="width-info">80</integerProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Diagrama  de secuencia del caso de uso "Crear categoría contrato"]]></markdownProperty>
