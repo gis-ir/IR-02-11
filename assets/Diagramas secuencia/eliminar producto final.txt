@@ -1,0 +1,11 @@
+title Eliminar Producto Final
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar productos finales
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos finales
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos finales
+Interfaz de Usuario -> Empleado: Mostrar lista de productos finales
+
+Empleado -> Interfaz de Usuario: Solicitar eliminar un producto final
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar eliminación de producto final
+Interfaz de Servicio -> Interfaz de Usuario: Eliminar producto final de la base de datos
+Interfaz de Usuario -> Empleado: Mostrar listado de productos finales, sin el eliminado
