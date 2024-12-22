@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="8JyGoMkXgBQy" classes="traceability-matrix" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
+<object id="6fEjmwiTK27K" classes="traceability-matrix" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[TRM-]]></prefix><number>001</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[TRM-]]></prefix><number>002</number><suffix><![CDATA[]]></suffix></codeProperty>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Matriz de trazabilidad]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-11-24</dateProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[2.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Matriz de trazabilidad requisitos generales y casos de uso]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Matriz de trazabilidad requisitos de información y requisitos generales]]></markdownProperty>
     <classListProperty name="row-classes" category="detail">
-      <class><![CDATA[use-case]]></class>
+      <class><![CDATA[information-requirement]]></class>
     </classListProperty>
     <classListProperty name="col-classes" category="detail">
       <class><![CDATA[general-requirement]]></class>
