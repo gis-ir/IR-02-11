@@ -1,0 +1,11 @@
+title Actualizar stock
+
+Directivo -> Interfaz de Usuario: Solicitar visualizar el stock disponible
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de stock disponible
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de stock disponible
+Interfaz de Usuario -> Directivo: Mostrar lista de stock disponible
+
+Directivo -> Interfaz de Usuario: Solicitar actualizar el stock
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar actualización del stock
+Interfaz de Servicio -> Interfaz de Usuario: Actualizar el stock
+Interfaz de Usuario -> Directivo: Mostrar el listado actualizado del stock

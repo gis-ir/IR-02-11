@@ -2,7 +2,7 @@
 <object id="88SofMBsP8cM" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[tiempoUso]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Tiempo de uso del producto en esa máquina.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[Tiempo de uso de un tipo de producto en esa máquina.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

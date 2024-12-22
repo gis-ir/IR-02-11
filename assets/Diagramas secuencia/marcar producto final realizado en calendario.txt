@@ -1,0 +1,16 @@
+title Marcar Producto Final realizado
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar calendario
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar calendario
+Interfaz de Servicio -> Interfaz de Usuario: Devolver calendario
+Interfaz de Usuario -> Empleado: Mostrar calendario
+
+Empleado -> Interfaz de Usuario: Seleccionar productos a realizar en el día o la semana
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos a realizar en el día o la semana
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos a realizar en el día o la semana
+Interfaz de Usuario -> Empleado: Mostrar lista de productos a realizar en el día o la semana
+
+Empleado -> Interfaz de Usuario: Seleccionar producto a marcar como realizado
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar marcado del producto como realizado
+Interfaz de Servicio -> Interfaz de Usuario: Marcar producto como realizado
+Interfaz de Usuario -> Empleado: Mostrar calendario con el producto fuera de los objetivos.

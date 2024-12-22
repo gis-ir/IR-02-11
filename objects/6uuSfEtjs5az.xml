@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="6uuSfEtjs5az" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Registro de producto realizado]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema registra en la base de datos el cumplimiento de la estimación de producción del producto seleccionado.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

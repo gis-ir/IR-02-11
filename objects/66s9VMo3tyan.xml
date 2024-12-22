@@ -6,9 +6,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, Sietem utiliza gmail para recibir los pedidos de sus clientes en formato PDF, una aplicación para pasar el PDF a excel.
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente, Sietem utiliza gmail para recibir los pedidos de sus clientes en formato PDF.
 
-Para finalizar, utilizan un lector de PDF para leer la información de los productos comprados a sus proveedores y una aplicación de gestión de fichas técnicas llamada Fichatec, a la que insertan la información proporcionada por los proveedores sobre sus productos, para la obtención final de una ficha técnica con todos los ingredientes e información nutricional del producto en cuestión]]></markdownProperty>
+Posteriormente, mediante una aplicación pasan el PDF a excel para poder leer la información de los productos comprados a sus proveedores y, para gestionar las fichas técnicas utilizan una aplicación de gestión de las mismas llamada Fichatec, a la que insertan la información proporcionada por los proveedores sobre sus productos, para la obtención final de una ficha técnica con todos los ingredientes e información nutricional del producto en cuestión. Lo principalmente negativo es que el formato de la ficha técnica está compuesto por diferentes formatos de diversos proveedores, por lo que obtener una fiha técnica legible a mano es un gran desafío.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -1,0 +1,11 @@
+title Modificar Producto Final
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar productos finales
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos finales
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos finales
+Interfaz de Usuario -> Empleado: Mostrar lista de productos finales
+
+Empleado -> Interfaz de Usuario: Solicitar modificar un producto final
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de producto final
+Interfaz de Servicio -> Interfaz de Usuario: Modificar producto final
+Interfaz de Usuario -> Empleado: Mostrar datos del producto final modificado

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="PHMMZRSUqaF2" classes="software-requirement use-case" acceptedChildren="use-case-step" acceptedParents=":Proteus-any">
+  <properties>
+    <codeProperty name=":Proteus-code" category="general" inmutable="true"><prefix><![CDATA[UC-]]></prefix><number>010</number><suffix><![CDATA[]]></suffix></codeProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Crear Ficha técnica]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author">
+      <trace target="7ErYGnAoDr6m" traceType=":Proteus-author"/>
+    </traceProperty>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="description" category="detail"><![CDATA[El sistema debería comportarse como se describe en el siguiente caso de uso cuando el empleado de producción (ACT-001) añada una ficha técnica a un producto final o referencia ya existente, en base a su método (y, por tanto, a la ficha técnica de las materias primas y semielaborados que lo componen).]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El empleado de producción (ACT-001) está registrado en el sistema.]]></markdownProperty>
+    <markdownProperty name="postcondition" category="pre-post"><![CDATA[La ficha técnica ha sido creada y añadida a la base de datos con éxito]]></markdownProperty>
+    <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
+    <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
+    <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
+    <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="69Erg7Mxghbg" traceType=":Proteus-dependency"/>
+      <trace target="5evGXYL5SrY7" traceType=":Proteus-dependency"/>
+    </traceProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children>
+    <child id="3ikQpfXELTQF"/>
+    <child id="4N2tCRmb4K65"/>
+    <child id="5nb7Eqsswsdd"/>
+    <child id="6tGYdJE38XMm"/>
+    <child id="7f2oiGLeYpGC"/>
+    <child id="4kbu8Qt6Ry8s"/>
+  </children>
+</object>

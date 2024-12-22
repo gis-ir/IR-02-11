@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7gaec8yW2qAu" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Solicitar referencias sin ficha técnica asociada]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará al empleado de producción (ACT-001) las referencias a las que todavía no se ha asignado una ficha técnica.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

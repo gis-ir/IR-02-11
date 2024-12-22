@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="5cXUmfq5RAwz" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Añadir ficha técnica a una referencia]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado de producción (ACT-001) seleccionará una referencia sin ficha técnica asociada para que la aplicación, en función del método de dicha referencia (y, por tanto, de las fichas técnicas de las materias primas y semielaborados que componen su método) generar la ficha técnica corespondiente.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

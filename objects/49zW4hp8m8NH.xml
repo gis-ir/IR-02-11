@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="49zW4hp8m8NH" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar listado productos]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará el listado de los productos, con una breve descripción, al comprador (ACT-003).]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

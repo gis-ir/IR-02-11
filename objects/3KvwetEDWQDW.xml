@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3KvwetEDWQDW" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Mostrar listado contratos existentes]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema mostrará al directivo (ACT-002) el listado de los contratos que haya almacenados en la base de datos.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>

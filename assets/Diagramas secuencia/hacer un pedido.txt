@@ -1,0 +1,24 @@
+title Hacer un Pedido
+
+Cliente -> Interfaz de Usuario: Solicitar visualizar productos
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de productos
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de productos
+Interfaz de Usuario -> Cliente: Mostrar lista de productos
+
+loop Mientras el cliente añade productos al carrito
+    alt El cliente selecciona un producto para ver su descripción completa
+        Cliente -> Interfaz de Usuario: Solicitar ver descripción completa del producto
+        Interfaz de Usuario -> Interfaz de Servicio: Solicitar descripción completa del producto
+        Interfaz de Servicio -> Interfaz de Usuario: Devolver descripción completa del producto
+        Interfaz de Usuario -> Cliente: Mostrar descripción completa del producto
+    end
+    Cliente -> Interfaz de Usuario: Añadir producto al carrito
+    Interfaz de Usuario -> Interfaz de Servicio: Solicitar actualización del carrito con producto
+    Interfaz de Servicio -> Interfaz de Usuario: Actualizar el carrito
+    Interfaz de Usuario -> Cliente: Mostrar icono del carrito actualizado en el listado
+end
+
+Cliente -> Interfaz de Usuario: Realizar el pedido, confirmando el carrito
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar procesamiento del pedido
+Interfaz de Servicio -> Interfaz de Usuario: Registrar el pedido en la base de datos
+Interfaz de Usuario -> Cliente: Confirmar pedido realizado

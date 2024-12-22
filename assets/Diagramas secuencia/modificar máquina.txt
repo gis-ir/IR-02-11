@@ -1,0 +1,11 @@
+title Modificar Máquina
+
+Empleado -> Interfaz de Usuario: Solicitar visualizar máquinas
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar lista de máquinas
+Interfaz de Servicio -> Interfaz de Usuario: Devolver lista de máquinass
+Interfaz de Usuario -> Empleado: Mostrar lista de máquinas
+
+Empleado -> Interfaz de Usuario: Solicitar modificar una máquina
+Interfaz de Usuario -> Interfaz de Servicio: Solicitar modificación de máquina
+Interfaz de Servicio -> Interfaz de Usuario: Actualizar datos de la máquina la base de datos
+Interfaz de Usuario -> Empleado: Mostrar datos de la máquina actualizada

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="4W6veSv5Fdw6" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Seleccionar objetivo temporal del calendario]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El empleado (ACT-001) indicará al sistema si quiere que la generación del calendario de producción óptima sea diaria, semanal o mensual.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
