@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="4S4ZqTDM9TQh" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+<object id="4cddomNF6tQr" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Servicio Maquinaria]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Servicios Productos Finales]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[- añadirMaquinaria(): añade una maquinaria la base de datos
-- eliminarMaquinaria(): elimina una maquinaria de  la base de datos
-- modificarMaquinaria(): modifica los datos de una maquinaria de la base de datos
+    <markdownProperty name="text" category="detail"><![CDATA[- añadirPF(): añade un producto final de la base de datos
+- eliminarPF(): elimina un producto final de la base de datos
+- modificarPF(): modifica los datos de un producto final de la base de datos
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
