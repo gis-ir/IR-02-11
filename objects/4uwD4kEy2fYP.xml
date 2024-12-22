@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[]]></markdownProperty>
+    <markdownProperty name="text" category="detail"><![CDATA[El empleado solicita visualizar un listado de materias primas a la interfaz de usuario, ésta solicita la lista a la interfaz de servicio, la cual se la devuelve. La interfaz de usuario muestra la lista de materias primas al usuario y solicita modificar una materia prima. La interfaz de usuario solicita modificar la materia prima a la interfaz de servicio, y una vez modificada la interfaz de usuario muestra al empleado el listado de materias primas con la modificada.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
