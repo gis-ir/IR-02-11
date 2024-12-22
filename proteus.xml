@@ -9,10 +9,7 @@
   </properties>
   <documents>
     <document id="ers"/>
-    <document id="das"/>
     <document id="5Y42HoJr8xkw"/>
+    <document id="das"/>
   </documents>
-  <xsl-templates>
-    <xsl-template name="default"/>
-  </xsl-templates>
 </project>

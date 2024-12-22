@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="3UyEPv56FLdT" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section" selectedCategory="detail">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-12-22</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[El cliente solicita visualizar los productos a la interfaz de usuario, la cual solicita una lista de productos a la interfaz de servicio. La interfaz de servicio devuelve la lista y la interfaz de usuario la muestra al cliente. El cliente solicita ver la descripción completa del producto a la interfaz de usuario, la cual solicita la descripción completa a la interfaz de servicio, y ésta se la devuelve. La interfaz de usuario muestra la descripción completa del producto al cliente, el cual añade el producto al carrito en la interfaz de usuario. La interfaz de usuario solicita actualizar el carrito con el producto a la interfaz de servicio, la cual actualiza el carrito. La interfaz de usuario muestra el icono del carrito actualizado al cliente, el cual realiza el pedido confirmando el carrito en la interfaz de usuario. Una vez el pedido esté registrado en la base de datos, se le muestra al cliente.]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
